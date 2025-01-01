@@ -15,3 +15,11 @@ dation systems, to accomplish counterfactual fairness of user-sensitive informat
  effectiveness and sophistication of our proposed method for mitigating partiality problems in GNN
  recommendation systems from a causal perspective (MGRC) have been proven via experiments on
  four real-world datasets.
+
+
+
+The dataset can be download in the following links:
+Ml-1M&Ml-100k: https://grouplens.org/datasets/movielens/
+Lastfm-lk: http://ocelma.net/MusicRecommendationDataset/lastfm
+1K.html
+ALIEC: https://tianchi.aliyun.com/dataset
